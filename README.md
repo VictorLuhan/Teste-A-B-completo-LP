@@ -1,7 +1,7 @@
 # 🧪 Análise Completa de A/B Test — SaaSify
 
 **Autor:** Victor Luhan · Marketing Analytics Pleno  
-**Ferramentas:** Python · Pandas · SciPy · Statsmodels · Matplotlib  
+**Ferramentas:** Excel · Python · Pandas · SciPy · Statsmodels · Matplotlib  
 **Período do experimento:** 14 dias · 15.000 usuários
 
 ---
